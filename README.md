@@ -2,7 +2,7 @@
 
 **Data Analyst & Data Scientist** based in Belgium 🇧🇪
 
-I'm a Computer Science Master's graduate (UMONS) and Le Wagon Data Science & AI alumni, passionate about turning raw data into actionable insights. I'm an IT education, I bring a unique ability to bridge the gap between complex technical concepts and clear, impactful storytelling.
+I'm a Computer Science Master's graduate and Le Wagon Data Science & AI alumni, passionate about turning raw data into actionable insights. I'm an IT education, I bring a unique ability to bridge the gap between complex technical concepts and clear, impactful storytelling.
 
 ## 🔬 What I Do
 

@@ -2,7 +2,7 @@
 
 ### Data Analyst & Data Scientist based in Belgium 🇧🇪
 
-🎓 Le Wagon Data Science bootcamp graduate (400h) · 🚂 Railway data specialist · 📊 Python • SQL • ML • Geospatial
+🎓 Le Wagon Data Science bootcamp graduate (400h) · 📊 Python • SQL • ML • Geospatial
 
 🌐 **Portfolio:** [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN / FR / NL)
 

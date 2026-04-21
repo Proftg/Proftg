@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tahar Guenfoud
 
-### Data Analyst & Data Scientist based in Belgium 🇧🇪
+### Data Analyst/Data Scientist based in Belgium 🇧🇪
 
 🎓 Le Wagon Data Science bootcamp graduate (400h) · 📊 Python • SQL • ML • Geospatial
 

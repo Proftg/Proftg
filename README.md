@@ -14,7 +14,7 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Blackspots** | Geospatial cartography of delay hotspots across **500 Belgian stations** from **19.7M train records** | Python · Folium · Plotly · Streamlit | [Repo](https://github.com/Proftg/blackspots-infrabel) · [Live](https://blackspots-infrabel.streamlit.app/) |
+| **Blackspots** | Geospatial cartography of delay hotspots across **500 Belgian stations** from **22.6M train records** | Python · Folium · Plotly · Streamlit | [Repo](https://github.com/Proftg/blackspots-infrabel) · [Live](https://blackspots-infrabel.streamlit.app/) |
 | **Railway Delay ML** | End-to-end ML pipeline — geo clustering, anomaly detection, STL decomposition · **AUC = 0.813** | XGBoost · Scikit-learn · DBSCAN · Isolation Forest | [Repo](https://github.com/Proftg/railway-delay-ml) |
 | **Infrabel Dashboard** | KPI dashboard on punctuality & reliability from **5 Infrabel Open Data** sources | Pandas · Plotly · Streamlit · Power BI | [Repo](https://github.com/Proftg/infrabel-dashboard) · [Live](https://infrabel-dashboard.streamlit.app/) |
 | **SNCB Live Dashboard** | Real-time monitoring of **20 major stations** via iRail API with auto-refresh | Streamlit · Plotly · Folium · iRail API | [Repo](https://github.com/Proftg/sncb-live-dashboard) · [Live](https://sncb-live-dashboard.streamlit.app/) |

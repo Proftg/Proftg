@@ -14,7 +14,7 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **RAG Finance Agent** | ReAct agent that answers with two tools: semantic search over reports and SQL over a 30K-client database. Cached answers go through a human review step before reuse. | LangGraph · ChromaDB · Groq · SQLite · Streamlit | [Repo](https://github.com/Proftg/rag-finance-agent) |
+| **RAG Finance Agent** | ReAct agent that answers with two tools: semantic search over reports and SQL over a 30K-client database. Cached answers go through a human review step before reuse. Call log, 7-question evaluation (7/7) and Docker image. | LangGraph · ChromaDB · Groq · SQLite · Streamlit · Docker | [Repo](https://github.com/Proftg/rag-finance-agent) |
 | **SPF Risk Scoring** | Credit default and fraud scoring pipeline on UCI (30K) and Kaggle (284K) data. Fraud AUC 0.945, lift x58, 15 tests. | Isolation Forest · Scikit-learn · Streamlit | [Repo](https://github.com/Proftg/spf-risk-scoring) |
 | **Football AI** | Computer vision on match video: players, ball and pitch detection, tracking, team classification, 2D radar and basic stats. | YOLOv8 · ByteTrack · supervision | [Repo](https://github.com/Proftg/football-ai) |
 | **MacroDash NBB** | Belgian macro dashboard built on 6 Eurostat series (rates, inflation, unemployment, GDP, house prices). | DuckDB · Plotly · Streamlit | [Repo](https://github.com/Proftg/macrodash-nbb) · [Live](https://macrodashnbb.streamlit.app/) |

@@ -1,8 +1,8 @@
 # Hi, I'm Tahar Guenfoud
 
-### Data Analyst / Data Scientist based in Belgium
+### AI Engineer / Data Scientist based in Belgium
 
-Master's degree from UMONS and Le Wagon Data Science bootcamp (400h). I work in Python, SQL and ML, with a taste for geospatial and time-series data. I also commute by bike and train every day, which is why so many of my projects look at Belgian rail delays.
+Master's degree from UMONS and Le Wagon Data Science bootcamp (400h). I work in Python, SQL and ML, and I build RAG systems and LLM agents, with a taste for geospatial and time-series data. I also commute by bike and train every day, which is why so many of my projects look at Belgian rail delays.
 
 Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN / FR / NL)
 
@@ -41,7 +41,7 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 
 **Languages:** Python · SQL · Bash
 **Data and ML:** Pandas · NumPy · Scikit-learn · XGBoost · DBSCAN · Isolation Forest · STL
-**GenAI:** LangGraph · ChromaDB · Groq · YOLOv8
+**GenAI:** RAG · embeddings · vector search · LLM agents (ReAct) · LangGraph · ChromaDB · Groq · YOLOv8
 **Data tools and apps:** DuckDB · SQLite · Streamlit · Plotly · Folium · Power BI
 **Infra:** Docker · Git · GitHub Actions · Astro (portfolio)
 
@@ -53,4 +53,4 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 - [LinkedIn](https://www.linkedin.com/in/tahar-guenfoud/)
 - taharguenfoud@gmail.com
 
-Open to Data Analyst and Data Scientist roles in Belgium.
+Open to AI Engineer, Data Scientist and Data Analyst roles in Belgium.

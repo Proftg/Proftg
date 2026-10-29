@@ -2,7 +2,7 @@
 
 ### Data Analyst / Data Scientist based in Belgium
 
-Master's degree from UMONS (2025) and Le Wagon Data Science bootcamp (400h). I work in Python, SQL and ML, with a taste for geospatial and time-series data. I also commute by bike and train every day, which is why so many of my projects look at Belgian rail delays.
+Master's degree from UMONS and Le Wagon Data Science bootcamp (400h). I work in Python, SQL and ML, with a taste for geospatial and time-series data. I also commute by bike and train every day, which is why so many of my projects look at Belgian rail delays.
 
 Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN / FR / NL)
 

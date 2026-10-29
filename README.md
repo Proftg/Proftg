@@ -32,7 +32,6 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Bank Customer Churn** | Three churn drivers found on 10k+ users, with a 40% at-risk segment. | Scikit-learn · Streamlit | [Repo](https://github.com/Proftg/Bank-Customer-Churn) |
 | **Maven Music** | Churn analysis and behaviour dashboard for a streaming platform. | Scikit-learn · Seaborn · Streamlit | [Repo](https://github.com/Proftg/maven_music_streamlit-app) · [Live](https://maven-music-app.streamlit.app/) |
 | **BGG Board Game Popularity** | Le Wagon capstone: popularity prediction from 20k+ BoardGameGeek records. | Scikit-learn · REST API · Streamlit | [Repo](https://github.com/Proftg/BGG-Project---Board-Game-Analysis) |
 

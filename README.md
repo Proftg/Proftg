@@ -1,6 +1,6 @@
 # Hi, I'm Tahar Guenfoud
 
-### AI Engineer / Data Scientist based in Belgium
+### Data Scientist / Data Analyst based in Belgium
 
 Master's degree from UMONS and Le Wagon Data Science bootcamp (400h). I work in Python, SQL and ML, and I build RAG systems and LLM agents, with a taste for geospatial and time-series data. I also commute by bike and train every day, which is why so many of my projects look at Belgian rail delays.
 
@@ -53,4 +53,4 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 - [LinkedIn](https://www.linkedin.com/in/tahar-guenfoud/)
 - taharguenfoud@gmail.com
 
-Open to AI Engineer, Data Scientist and Data Analyst roles in Belgium.
+Open to Data Scientist and Data Analyst roles in Belgium.

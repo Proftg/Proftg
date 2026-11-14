@@ -10,10 +10,16 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 
 ## Featured projects
 
+> ### Latest: AI Customer Support
+> An email agent for a fictional Belgian bank. It reads a Gmail inbox, classifies each message, drafts a reply from a knowledge base and hands every risky case to a human. The model proposes, the code decides: business rules and the final reply-or-escalate choice are plain Python. It comes with an admin dashboard (events, tickets, editable knowledge base), a 24-email evaluation and a Docker Compose deployment on a VPS.
+>
+> Pydantic AI · FastAPI · Postgres · React · TypeScript · Docker · [Repo](https://github.com/Proftg/ai-customer-support)
+
 ### GenAI and risk scoring
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| **AI Customer Support** | Email agent for a fictional bank: classifier, knowledge-base agent and escalation rules in Python. Admin dashboard, 24-email evaluation (100 % on the last run), deployed with Docker Compose on a VPS. | Pydantic AI · FastAPI · Postgres · React · Docker | [Repo](https://github.com/Proftg/ai-customer-support) |
 | **RAG Finance Agent** | ReAct agent that answers with two tools: semantic search over reports and SQL over a 30K-client database. Cached answers go through a human review step before reuse. Call log, 7-question evaluation (7/7) and Docker image. | LangGraph · ChromaDB · Groq · SQLite · Streamlit · Docker | [Repo](https://github.com/Proftg/rag-finance-agent) |
 | **SPF Risk Scoring** | Credit default and fraud scoring pipeline on UCI (30K) and Kaggle (284K) data. Fraud AUC 0.945, lift x58, 15 tests. | Isolation Forest · Scikit-learn · Streamlit | [Repo](https://github.com/Proftg/spf-risk-scoring) |
 | **Football AI** | Computer vision on match video: players, ball and pitch detection, tracking, team classification, 2D radar and basic stats. | YOLOv8 · ByteTrack · supervision | [Repo](https://github.com/Proftg/football-ai) |
@@ -39,11 +45,11 @@ Portfolio: [proftg.github.io/portfolio](https://proftg.github.io/portfolio/) (EN
 
 ## Tech stack
 
-**Languages:** Python · SQL · Bash
+**Languages:** Python · SQL · Bash · TypeScript
 **Data and ML:** Pandas · NumPy · Scikit-learn · XGBoost · DBSCAN · Isolation Forest · STL
-**GenAI:** RAG · embeddings · vector search · LLM agents (ReAct) · LangGraph · ChromaDB · Groq · YOLOv8
-**Data tools and apps:** DuckDB · SQLite · Streamlit · Plotly · Folium · Power BI
-**Infra:** Docker · Git · GitHub Actions · Astro (portfolio)
+**GenAI:** RAG · embeddings · vector search · LLM agents (ReAct) · LangGraph · Pydantic AI · ChromaDB · Groq · YOLOv8
+**Data tools and apps:** DuckDB · SQLite · Postgres (Supabase) · FastAPI · React · Streamlit · Plotly · Folium · Power BI
+**Infra:** Docker · Docker Compose · Git · GitHub Actions · Astro (portfolio)
 
 ---
 
